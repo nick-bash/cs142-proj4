@@ -1,0 +1,16 @@
+.cs142-switcherp5-toolbar
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 10px;    
+    font-family: Tahoma;
+    font-size: 14px;    
+    border: 1px solid gray;
+}
+
+.cs142-switcherp5-links
+{
+    padding: 10px;
+}

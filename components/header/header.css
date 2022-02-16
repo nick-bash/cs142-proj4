@@ -1,0 +1,19 @@
+.cs142-header
+{
+    font-size: 30px;
+    background: rgb(241, 232, 232);
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;    
+    font-family: Tahoma;
+}
+
+.cs142-header-image
+{
+    height: 200px;
+    width: auto;
+    padding: 10px;
+}
